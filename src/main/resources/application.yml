@@ -1,0 +1,4 @@
+ftp:
+  port: 21
+  passivePort: 6020
+  passiveExternalAddress: 127.0.0.1
